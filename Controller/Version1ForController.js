@@ -1,2 +1,2 @@
 console.log("hello everyone");
-console.log("somebody add file this branch12")
+console.log("tao lam conflic này")
